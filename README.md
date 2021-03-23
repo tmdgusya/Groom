@@ -21,6 +21,7 @@ contents..
 |Commit Type|Emoji|Type|
 |---:|:---:|---|
 |BugFix|:bug: `:bug:`| bug: |
+|Review Fix|:wrench: `:wrench:` | fix: |
 |Documentation|:books:`:books`| doc: |
 |Documenting Source Code|:bulb:`:bulb`| doc: |
 |Performance|:racehors:`:racehors:`| perf: |
